@@ -18,6 +18,13 @@
                 
                 <?php
                 
+                /*
+                 * the requirement changes with your classes
+                 * if you write a Friend class, you set everything accordingly.
+                 * if it is Router class, it's no longer the same.
+                 */
+                
+                
                 class OverloadingClass {
                     
                     protected $uri;

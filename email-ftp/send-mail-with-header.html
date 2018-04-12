@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<!--
+Sending Email with header
+-->
+<html>
+    <?php ?>
+    <body>
+        <div>
+            <form method="POST" action="send-mail.php">
+                <div class="form-group">
+                <label for="exampleText">CC</label>
+                <input name="cc" type="text" placeholder="Copy of your mail">
+                <small id="exampleInputTypeHelp" class="form-text text-muted">Please type your username.</small>
+                </div>
+                <div class="form-group">
+                <label for="exampleText">BCC</label>
+                <input name="bcc" type="text" placeholder="Copy of your mail">
+                <small id="exampleInputTypeHelp" class="form-text text-muted">Please type your username.</small>
+                </div>
+                <div class="form-group">
+                <label for="exampleInputTextArea">Please send your comment</label>
+                <textarea name="message" cols="80" rows="10">
+
+                </textarea>
+                </div>  
+             <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+        </div>
+        
+    </body>
+</html>

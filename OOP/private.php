@@ -41,7 +41,7 @@
                 
                 $connect = new Connection();
                 $connect->setConnection("MySQL");
-                //echo $connect->connection;
+                echo $connect->connection;
                 echo $connect->getConnection();
                 
                ?>

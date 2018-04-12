@@ -84,6 +84,20 @@ $routes = [
                 <br>
                 <a href="comparing-objects.php">Object Comparison</a>
                 <br>
+                <a href="class-constants.php">Class Constants</a>
+                <br>
+                <a href="final-keyword.php">Final Keyword</a>
+                <br>
+                <a href="composer-array-test.php">Testing Array Object</a>
+                <br>
+                <a href="cloning-objects.php">Cloning Object</a>
+                <br>
+                <a href="reflection-function.php">Examining Code</a>
+                <br>
+                <a href="reflection-class.php">Reflection Class</a>
+                <br>
+                <a href="more-on-reflection.php">More on Reflection Class</a>
+                <br>
             </p>
           <h3>
                 Code Snippet

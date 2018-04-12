@@ -28,7 +28,15 @@ and open the template in the editor.
         <hr>
         <a href="mvc/index.php">MVC</a>
         <hr>
-        <a href="app1/index.php">Application One - Sending Email</a>
+        <a href="forms/forms.php">Form and File Handling</a>
+        <hr>
+        <a href="files/index.php">File Handling</a>
+        <hr>
+        <a href="session and cookies/index.php">Session and Cookies</a>
+        <hr>
+        <a href="email-ftp/index.php">Email and Ftps</a>
+        <hr>
+        <a href="mysql/index.php">MySQL</a>
         <hr>
 
 
